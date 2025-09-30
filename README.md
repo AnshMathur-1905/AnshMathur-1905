@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Ansh Mathur  
 
 I’m a data and design-driven professional who loves turning raw data into meaningful, visual stories.  
-With experience across business operations, analytics, and UI optimization, I bridge the gap between **data insights and decision-making**.  
+With experience across business operations, analytics, and UI optimization, I bridge the gap between data insights and decision-making.  
 
+
+> ✨ *“Data is just information — until you give it a story.”*  
 ---
 
 ## 🧠 Skills & Experience  
@@ -37,6 +39,5 @@ With experience across business operations, analytics, and UI optimization, I br
 
 ---
 
-> ✨ *“Data is just information — until you give it a story.”*  
 
 
