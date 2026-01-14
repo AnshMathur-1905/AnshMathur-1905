@@ -7,20 +7,15 @@ With experience across business operations, analytics, and UI optimization, I br
 > ✨ *“Data is just information — until you give it a story.”*  
 ---
 
-## 🧠 Skills & Experience  
+## 🧠 Analytical Skills & Toolkit 
 
-- **Power BI** – Skilled in building interactive dashboards and data models using **DAX** and **Power Query**. Experienced in data storytelling — combining thoughtful visuals, color theory, and clear narratives to communicate insights effectively.  
+- **Power BI & DAX:** Proficient in Time Intelligence, complex measures, and Power Query for backend transformation. I focus heavily on Data Storytelling—leveraging color theory and UX principles to build dashboards that people actually want to use.
+  
+- **SQL Mastery:** Skilled in writing advanced queries, utilizing CTEs and Window Functions for deep-dive analysis, and optimizing workflows to ensure data integrity across enterprise architectures.
 
-- **SQL (Advanced)** – Proficient in writing queries for data analysis, transformation, and validation. Experienced in working with structured datasets and optimizing workflows to support reporting and decision-making.  
+- **Domain Expertise:** Logistics and Supply Chain in the Petroleum Industry. I manage complex data flows for inventory visibility, haulier tracking, and mapping frameworks across international markets.
 
-- **Excel** – Forecasting, pivot automation, and visual reporting. 
-
-- **Client Collaboration** – Work closely with global stakeholders to gather business requirements, validate dashboards, and align deliverables with strategic goals.  
-
-- **Domain Expertise** – Supply Chain & Logistics Operations, Marketing Analytics, and Business Performance Reporting.  
-
-- **Data Storytelling & Visualization** – Focused on translating data into actionable insights and intuitive visual narratives for leadership and cross-functional teams.  
-
+- **Global Collaboration:** I partner with global stakeholders to gather business requirements, translate conceptual ideas into technical specifications, and identify emerging trends to drive root-cause analysis and process optimization.
 
 ---
 
